@@ -1,0 +1,8 @@
+{
+    "name": "Qiskit",
+    "dockerFile": "Dockerfile",
+    "containerEnv": {
+        "QXAuthURL": "IBM Quantum Authentication API URL",
+        "QXToken": "IBM Quantum API Token (can be found in Account Details)"
+    }
+}
