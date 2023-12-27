@@ -4,5 +4,17 @@
     "containerEnv": {
         "QXAuthURL": "IBM Quantum Authentication API URL",
         "QXToken": "IBM Quantum API Token (can be found in Account Details)"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-toolsai.jupyter",
+                "GitHub.copilot",
+                "GitHub.copilot-chat",
+                "GitHub.vscode-pull-request-github",
+                "ms-python.python",
+                "eamodio.gitlens"
+            ]
+        }
     }
 }
